@@ -1,4 +1,4 @@
-# 📝 RPG Creature Terminal
+# 🎮 RPG Creature Terminal
 
 Welcome to **RPG Creature Terminal** — a sophisticated terminal-style creature database built with pure JavaScript! Experience the modern TUI (Terminal User Interface) design that brings the nostalgia of command-line interfaces to your browser, featuring real-time creature data from the RPG Creature API.
 
